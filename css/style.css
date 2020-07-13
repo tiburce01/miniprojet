@@ -1,0 +1,60 @@
+#header{
+	text-align: right;
+	font-size: 13px;
+}
+#contenu{
+    position: absolute; 
+    text-align: center;
+    margin-top: 120px;
+    margin-right: 300px;
+}
+#logogoogle{
+  margin-left: 380px ; 
+}
+#recherche{
+  margin-left: 380px ; 
+  margin-bottom: 20px;
+}
+#bouton{
+  margin-left: 343px ;
+  margin-top: 90px ;
+  display: inline;
+  position: relative; 
+}
+
+input {
+ border: none; /*removes the default css*/
+ border: 1px solid black; /*your custom css*/
+ border-radius: 35px; /*your-border radius*/
+ height: 35px;
+ width: 300px; 
+ opacity: 0.2;
+}
+
+#disponible
+{
+  margin-left: 380px ; 
+  font-size: 13px;
+}
+
+#footer{
+	position: absolute;
+	bottom: 0px;
+	width: 100% ;
+  font-size: 13px;
+
+}
+#madagacar
+{
+  
+  height: 35px;
+  padding-top: 25px;
+  border-bottom: 1px solid black;
+  background-color: #f2f2f2 ;
+  
+
+}
+a{
+	text-decoration: none;
+  color: grey;
+}
